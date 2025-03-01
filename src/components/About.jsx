@@ -3,9 +3,9 @@ import React from "react";
 export default function About() {
   return (
     <div className="text-center py-20">
-      <button className="bg-green/10 py-3 px-4 rounded-3xl text-green">
+      <p className="bg-green/10 py-3 px-4 rounded-3xl text-green w-max mx-auto">
         About Optimzer
-      </button>
+      </p>
       <div className="mt-6 text-[40px] tracking-tight pb-40">
         <p className="text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50 leading-[52px]">
           We make GitHub workflows faster, smarter, and

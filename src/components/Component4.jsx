@@ -5,13 +5,13 @@ export default function Component4() {
   return (
     <div className="text-center py-20 relative">
       <div className="w-[241px] h-[241px] bg-green blur-[300px] -right-28 -top-28 absolute"></div>
-      <button className="bg-green/10 py-3 px-4 rounded-3xl text-green">
+      <p className="bg-green/10 py-3 px-4 rounded-3xl text-green w-max mx-auto">
         What you'll get
-      </button>
+      </p>
       <p className="mt-6 text-[40px] tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white to-white/50 ">
         © 2025 OPT/CI. All Rights Reserved
       </p>
-      <div className="mx-auto max-w-[1200px] w-full grid grid-cols-3 gap-6 mt-16">
+      <div className="mx-auto max-w-[1200px] w-full grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6 mt-16">
         <Card src={"/image1.png"} />
         <Card src={"/image2.png"} />
         <Card src={"/image3.png"} />

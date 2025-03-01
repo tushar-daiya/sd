@@ -29,7 +29,7 @@ export default function Hero() {
             </svg>
             <span className="font-semibold">Connect Github</span>
           </button>
-          <button className="h-11 bg-[#D3FFCA] text-black flex items-center gap-[10px] px-4 rounded-3xl">
+          <button className="h-11 bg-[#D3FFCA] text-black flex items-center gap-[10px] px-4 rounded-3xl shadowcustom">
             <svg
               width="23"
               height="22"

@@ -10,7 +10,7 @@ export default function Navbar() {
                 <li>About</li>
                 <li>Services</li>
             </ul>
-            <button className='font-semibold px-6 py-2 bg-[#D3FFCA] text-black shadow-inner rounded-3xl'>
+            <button className='font-semibold px-6 py-2 bg-[#D3FFCA] text-black shadowcustom rounded-3xl '>
                 Analyze Now
             </button>
         </div>

@@ -13,7 +13,7 @@ export default function Footer() {
           <p>Reduce carbon footprint and streamline development. Paste your</p>
           <p>GitHub repo or connect your account for optimized workflow</p>
         </div>
-        <button className="mt-6 font-semibold leading-[20px] flex items-center gap-2  bg-[#D3FFCA] text-black h-12 px-6 shadow-inner rounded-xl">
+        <button className="mt-6 font-semibold leading-[20px] flex items-center gap-2  bg-[#D3FFCA] text-black h-12 px-6 rounded-xl shadowcustom">
           <svg
             width="21"
             height="20"
