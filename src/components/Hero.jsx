@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <div className="h-[750px] hero">
+    <div className="h-[750px] hero bg-gradient-to-b from-black/0 to-black">
       <div className="pt-40 flex flex-col items-center">
         <h1 className="text-7xl text-transparent bg-clip-text bg-gradient-to-r from-white/50 to-white">
           Future of DevOps is{" "}
